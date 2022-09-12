@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmitcheson
+- 👋 Hi, I’m Tom Mitcheson
 - 🎓 I'm a recent MSc graduate in Computer Science from Imperial College London.
 - 👀 I’m interested in all sorts, including but not limited to:
     - Data science and Machine Learning
