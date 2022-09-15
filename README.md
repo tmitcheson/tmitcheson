@@ -4,6 +4,7 @@
     - Data science and Machine Learning
     - High-performance C++
     - The cross-section of computer science and economics
+    - Green energy, green finance, green tech!
 - 🌱 I’m currently learning Kotlin on the side, I'm looking to expand my knowledge in the app development space
 - 📫 I'm currently looking for work, here's my LinkedIn if you want to reach out: https://www.linkedin.com/in/tom-mitcheson-1b6908195/
 
